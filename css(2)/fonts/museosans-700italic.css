@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MuseoSans700Italic';
+    src: url('museosans-700italic.eot');
+    src: url('museosans-700italic.eot') format('embedded-opentype'),
+         url('museosans-700italic.woff') format('woff'),
+         url('museosans-700italic.ttf') format('truetype'),
+         url('museosans-700italic.svg#MuseoSans700Italic') format('svg');
+}
